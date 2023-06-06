@@ -1,4 +1,4 @@
-# Welcome to DIAL0UT!
+# Welcome to DIAL0UT
 
 ### *VPN so good snowden wouldn't have gotten caught*
 
@@ -16,3 +16,7 @@ Dialout leverages the power of the [NYM mix network](https://nymtech.net/), TOR,
 + Network segregetation 
 + Diminished dependence on external services 
 + A Pi-hole like alternative for transaction privacy 
+
+Cosmos Gateway Pitch:
+
+https://www.youtube.com/live/7c4H2FVn4wE?feature=share&t=30501
