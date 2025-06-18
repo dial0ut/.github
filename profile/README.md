@@ -1,22 +1,32 @@
-# Welcome to DIAL0UT
+```
+         88 88            88    ,a8888a,
+         88 ""            88  ,8P"'  `"Y8,                ,d
+         88               88 ,8P        Y8,               88
+ ,adPPYb,88 88 ,adPPYYba, 88 88          88 88       88 MM88MMM
+a8"    `Y88 88 ""     `Y8 88 88          88 88       88   88
+8b       88 88 ,adPPPPP88 88 `8b        d8' 88       88   88
+"8a,   ,d88 88 88,    ,88 88  `8ba,  ,ad8'  "8a,   ,a88   88,
+ `"8bbdP"Y8 88 `"8bbdP"Y8 88    "Y8888P"     `"YbbdP'Y8   "Y888
+```
 
-### *VPN so good snowden wouldn't have gotten caught*
+> “Privacy is a human right; we help you reclaim it.”
 
+## Mission
 
-Dialout is a company that puts web services in the hands of users. Think of it as a VPN on steroids. Using passwordless login (coconut credentials), metadata protection, and data ownership everything from personal AI applications to enterprise security has gotten a whole lot easier.
+Our mission is to bring back privacy in an age where it's being taken from us. We:
 
+* Develop and maintain **Nymstr**: secure messaging with strong metadata anonymity
+* Provide custom software / tooling for security critical projects. 
 
-Dialout leverages the power of the [NYM mix network](https://nymtech.net/), TOR, and wireshark to create a personal, private, and *(most importantly!)* programmable experience with the web. Use all the apps you love without worrying about Big Tech watching you at a personal level and rest assured with enterprise security.
+Our approach is hands-on and client-focused: we design, implement, and support solutions based on the client's needs and our own expertise.
 
+## Contributing & Contract Inquiries
 
-### Just a few advantages .... 
-+ Completely localised traffic 
-+ Minimised attack surfacce
-+ Amplified privacy
-+ Network segregetation 
-+ Diminished dependence on external services 
-+ A Pi-hole like alternative for transaction privacy 
+* Contributions to **Nymstr** are welcome - please submit issues and pull requests.
+* For contract work or consulting, please contact us at `security@dialout.net`.
 
-Cosmos Gateway Pitch:
+## Contact
 
-https://www.youtube.com/live/7c4H2FVn4wE?feature=share&t=30501
+* **Website**: [https://dialout.net](https://dialout.net)
+* **Email**: [security@dialout.net](mailto:security@dialout.net)
+* **GitHub Discussions**: [https://github.com/dial0ut/community/discussions](https://github.com/dial0ut/community/discussions)
