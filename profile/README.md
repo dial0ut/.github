@@ -9,24 +9,36 @@ a8"    `Y88 88 ""     `Y8 88 88          88 88       88   88
  `"8bbdP"Y8 88 `"8bbdP"Y8 88    "Y8888P"     `"YbbdP'Y8   "Y888
 ```
 
-> “Privacy is a human right; we help you reclaim it.”
-
 ## Mission
 
-Our mission is to bring back privacy in an age where it's being taken from us. We:
+We develop open-source security tools and conduct research to advance cybersecurity knowledge. Our focus areas include:
 
-* Develop and maintain **Nymstr**: secure messaging with strong metadata anonymity
-* Provide custom software / tooling for security critical projects. 
+* **Privacy & Anonymity Tools**: Projects like **Nymstr** for secure, metadata-resistant communication
+* **Security Research**: Vulnerability analysis, exploitation techniques, and defensive strategies  
+* **Penetration Testing Utilities**: Custom tooling for security assessments and red team operations
+* **Cryptographic Implementations**: Practical applications of modern cryptography and secure protocols
+* **Educational Resources**: Sharing knowledge through code, documentation, and community engagement
 
-Our approach is hands-on and client-focused: we design, implement, and support solutions based on the client's needs and our own expertise.
+We believe in responsible disclosure, ethical hacking practices, and making security accessible to everyone.
 
-## Contributing & Contract Inquiries
+## Getting Involved
 
-* Contributions to **Nymstr** are welcome - please submit issues and pull requests.
-* For contract work or consulting, please contact us at `security@dialout.net`.
+* **Contribute**: Submit issues, pull requests, and improvements to our projects
+* **Learn**: Explore our educational resources and documentation
+* **Discuss**: Join conversations in our [GitHub Discussions](https://github.com/dial0ut/community/discussions)
+* **Contract Work**: Professional security consulting available at `security@dialout.net`
+
+## Responsible Disclosure
+
+We follow responsible disclosure practices for security vulnerabilities. If you discover security issues in our projects or others, please contact us privately before public disclosure.
 
 ## Contact
 
 * **Website**: [https://dialout.net](https://dialout.net)
 * **Email**: [security@dialout.net](mailto:security@dialout.net)
-* **GitHub Discussions**: [https://github.com/dial0ut/community/discussions](https://github.com/dial0ut/community/discussions)
+* **Security**: [security@dialout.net](mailto:security@dialout.net) (for vulnerability reports)
+* **Community**: [GitHub Discussions](https://github.com/dial0ut/community/discussions)
+
+---
+
+*All tools and research are provided for educational and authorized testing purposes only. Users are responsible for complying with applicable laws and regulations.*
