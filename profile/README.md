@@ -9,18 +9,6 @@ a8"    `Y88 88 ""     `Y8 88 88          88 88       88   88
  `"8bbdP"Y8 88 `"8bbdP"Y8 88    "Y8888P"     `"YbbdP'Y8   "Y888
 ```
 
-## Mission
-
-We develop open-source security tools and conduct research to advance cybersecurity knowledge. Our focus areas include:
-
-* **Privacy & Anonymity Tools**: Projects like **Nymstr** for secure, metadata-resistant communication
-* **Security Research**: Vulnerability analysis, exploitation techniques, and defensive strategies  
-* **Penetration Testing Utilities**: Custom tooling for security assessments and red team operations
-* **Cryptographic Implementations**: Practical applications of modern cryptography and secure protocols
-* **Educational Resources**: Sharing knowledge through code, documentation, and community engagement
-
-We believe in responsible disclosure, ethical hacking practices, and making security accessible to everyone.
-
 ## Getting Involved
 
 * **Contribute**: Submit issues, pull requests, and improvements to our projects
